@@ -68,3 +68,8 @@ Acknowledgement
 
 The CodeIgniter team would like to thank EllisLab, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
+
+***************
+Screenshoot
+***************
+https://github.com/trioaditya1079/crud-ci/issues/1#issue-723396918
